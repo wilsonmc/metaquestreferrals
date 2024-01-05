@@ -1,3 +1,7 @@
+1/5/2024 - Added a couple new scripts I have been playing around with (metalinkcheckfb.py and metalinkcheckreddit.py). One that is sort of optomized to output reddit markdown and one that is optomized to output to a facebook post. Both scrape the Meta app page for the rating of the app and include it in the out put. Also has sorting ability. Will try to update documentation later, but they are pretty straight forward to use and primarily created with Chatgpt.
+
+==================================================
+
 I'll admit I didn't spend a whole lot of time looking around for something that does this already, but when I did I couldnt find any script that I could feed it a bunch of Meta referral links and have it spit back out if they were still giving 25% discounts and if they were working as well. So I used ChatGPT to help me write one in Python. I figured it might help me learn a bit of Python in the process :)
 
 I'm sure there is code out there that is way better and does more, but I figured someone might get some benefit from this. Remember I am not a programmer so don't assume I know how to add any features or fix any issues, but if you want to give suggestions I'll certainly listen to them.
